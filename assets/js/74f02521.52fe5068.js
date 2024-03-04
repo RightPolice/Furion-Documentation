@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfurion=self.webpackChunkfurion||[]).push([[4875],{6227:o=>{o.exports=JSON.parse('{"permalink":"/Furion-Documentation/blog/tags/download","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

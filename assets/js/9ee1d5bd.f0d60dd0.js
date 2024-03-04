@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfurion=self.webpackChunkfurion||[]).push([[8165],{1258:e=>{e.exports=JSON.parse('{"label":".net6","permalink":"/Furion-Documentation/blog/tags/net-6","allTagsPath":"/Furion-Documentation/blog/tags","count":5,"unlisted":false}')}}]);
